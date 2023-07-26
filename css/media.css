@@ -425,6 +425,10 @@
     flex-wrap: wrap;
   }
 
+  .footer__list {
+    flex-wrap: wrap;
+  }
+
   .footer__logo {
     margin-right: 0;
     width: 80px;
